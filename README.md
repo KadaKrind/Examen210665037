@@ -1,2 +1,1 @@
-# Examen210665037
-Examen210665037
+// Para el correcto funcionamiento del programa por favor corregir las credenciales en el codigo de conexion y tambien crear las tablas necesarias en el SQL , en la carpeta SistemaVentas.DAL hay un archivo de codigo que es conexion.cs en ese cambiar las credenciales por (local) o por el usuario de preferendcias y en el nombre de la base de datos a usar tambien cambiarla por la que se creara en la base de datos 
